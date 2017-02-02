@@ -29,6 +29,11 @@ import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * This class is used for viewing the list of Persons.
+ * It shows the user a list of names that are in the list, allowing them to select a person
+ */
+
 public class viewEntries extends AppCompatActivity {
 
     String FILENAME = "people.txt";

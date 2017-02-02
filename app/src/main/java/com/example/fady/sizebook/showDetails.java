@@ -16,6 +16,11 @@ import android.widget.Toast;
 import com.google.gson.Gson;
 
 
+/**
+ * This class is used for showing the details of a person.
+ * The activity offers the user options to delete and edit the person.
+ */
+
 public class showDetails extends AppCompatActivity {
 
     String person_name;

@@ -36,6 +36,11 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
 
+/**
+ * This class is used for entering a new person into the list of persons.
+ * The user only needs to add a name, all other fields are optional.
+ */
+
 public class addEntries extends AppCompatActivity {
 
     String FILENAME = "people.txt";

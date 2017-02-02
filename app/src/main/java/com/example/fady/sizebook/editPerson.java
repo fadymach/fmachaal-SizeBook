@@ -3,7 +3,6 @@ package com.example.fady.sizebook;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.DatePicker;
@@ -27,7 +26,10 @@ import java.lang.reflect.Type;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
-import java.util.Date;
+
+/** This class is used when the user chooses to edit a person in the list.
+ * It reads list of people,
+ */
 
 public class editPerson extends AppCompatActivity {
 

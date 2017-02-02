@@ -6,6 +6,10 @@ import android.os.Bundle;
 import android.view.View;
 
 
+/** This is the first activity that comes up when the application is opened.
+ * It allows the user to select whether he wants to view the entries or add entries.
+ */
+
 
 public class MainActivity extends AppCompatActivity {
 

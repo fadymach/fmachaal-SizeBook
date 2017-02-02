@@ -3,6 +3,11 @@ package com.example.fady.sizebook;
 
 import java.util.Date;
 
+/** This is the class of a Person - It allows the user to create a Person for their list.
+ * It is only required that the person has a name, all other variables are optional.
+ */
+
+
 public class Person {
     private String name;
     private String neck;
