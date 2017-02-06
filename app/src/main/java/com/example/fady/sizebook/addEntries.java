@@ -100,7 +100,7 @@ public class addEntries extends AppCompatActivity {
         }
     }
 
-
+ 
     /*Used http://stackoverflow.com/questions/30411679/android-studio-open-failed-erofs-read-only-file-system-when-creating-a-file
     for information on creating a file for storage. Found on Jan.27, 2017
      */
