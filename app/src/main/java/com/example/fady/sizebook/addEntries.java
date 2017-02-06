@@ -122,7 +122,7 @@ public class addEntries extends AppCompatActivity {
         }
     }
 
-
+    
     void readFile() {
         try {
             FileInputStream fis = openFileInput(FILENAME);
